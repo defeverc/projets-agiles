@@ -193,14 +193,15 @@ Description du projet
 
 
 # Équipe 18 : Nom du projet
-Description du projet 
+Tower Defence
+Des ennemis essayent d'atteindre la base le buse est de défendre en plaçant des tours de défence sur le chemin.
 
 ## Équipe
-* Prénom Nom
+Neel COFFIN / Colin DEFEVER / Antoine Specque /Thomas MIHLE
 
 ## Resources
 
-* git :
+* git : https://git-iut.univ-lille1.fr/defeverc/projet_agile_s3.git
 
 
 # Équipe 19 : Agenda électronique
